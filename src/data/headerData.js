@@ -1,9 +1,9 @@
 
 export const headerData = {
-    name: 'ABU SAID',
-    title: "Hello! I am",
-    desciption: "Hello! I am ABU SAID, a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. ",
-    image: 'https://i.ibb.co/ZmdNH6x/abu-said.jpg',
-    imagebw: 'https://i.ibb.co/Cw2Xp90/abu-said-bw.jpg',
-    resumePdf: 'https://docs.google.com/document/d/1MkkoRX98FS47CaEyeodyPzi4OkW8SH7Gv55f4MQkHV8/edit?usp=sharing'
+    name: 'CAMILO',
+    title: "Costalabs",
+    desciption: "Hola I´m Camilo González,a Software Engineer with experience in front and back technologies, specially in web technologies.I like to be constantly self-learning and participate with differents cultures.I know how to carry out projects in a short time, besides I work as a consultant in a reputable company. in my free time I like to go to the gym. =)",
+    image: 'https://media.licdn.com/dms/image/C4E03AQHBuVJvZ8-6Sw/profile-displayphoto-shrink_800_800/0/1663698714845?e=2147483647&v=beta&t=_KC5LUg8GR8X9c0LEK91-JfL7QTmSv3bLUB3odhUfUc',
+    imagebw: 'https://media.licdn.com/dms/image/C4E03AQHBuVJvZ8-6Sw/profile-displayphoto-shrink_800_800/0/1663698714845?e=2147483647&v=beta&t=_KC5LUg8GR8X9c0LEK91-JfL7QTmSv3bLUB3odhUfUc',
+    resumePdf: 'https://drive.google.com/file/d/1p2izzhRC4IwR755T3z6U-X9na88mqPt_/view?usp=drive_link'
 }
