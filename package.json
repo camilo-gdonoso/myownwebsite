@@ -1,7 +1,7 @@
 {
-  "name": "developer-portfolio-v2",
-  "version": "0.1.0",
-  "private": true,
+  "name": "developer-portfolio-v1",
+  "version": "0.1.1",
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@emotion/react": "^11.10.5",
