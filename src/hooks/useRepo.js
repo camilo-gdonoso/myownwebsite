@@ -1,8 +1,8 @@
-import { useEffect, useState } from 'react';
-import { contactsData } from '../data/contactsData';
+//import { useEffect, useState } from 'react';
+//import { contactsData } from '../data/contactsData';
 
 function UseRepo() {
-  const [repos, setRepos] = useState([]);
+ /* const [repos, setRepos] = useState([]);
   const { devUsername } = contactsData;
 
   useEffect(() => {
@@ -15,6 +15,7 @@ function UseRepo() {
   }, [devUsername]);
 
   return { blogs: repos };
+  */
 };
 
 export default UseRepo;
