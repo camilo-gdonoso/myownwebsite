@@ -27,8 +27,8 @@ export const projectsData = [
         projectName: 'Tipddy',
         projectDesc: 'In this company I had the opportunity to build and improve a curricular administration system for students of a particular company. In this case, I had problems with the entry of notes and calls to the endpoint, validation errors, and errors in some queries. In it, I was able to work with technologies like React.js + material UI on the front side and with node.js postgressql, nginx, forticlient, dbeaver on the backend side. Scrum methodology with Trello, Git and Bitbucket for version control and periodic meetings by Slack.',
         tags: ['React', 'CSS', 'Wordpress'],
-        code: 'https://github.com/said7388/Travel-Agency-client',
-        demo: 'https://travel-agency-fc58b.web.app/',
+        code: 'https://',
+        demo: 'https://',
         image: eight
     }
 ]
