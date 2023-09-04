@@ -6,7 +6,7 @@ function UseRepo() {
   const { devUsername } = contactsData;
 
   useEffect(() => {
-    fetch(`https://api.github.com/search/repositories?q=user:said7388&sort=stars&type=Repositories`)
+    fetch()
       .then((response) => response.json())
       .then(data => {
         console.log(data)
