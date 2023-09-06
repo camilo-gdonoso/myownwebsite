@@ -3,7 +3,7 @@ import { contactsImage } from './images'
 
 export const theLightTheme = {
     type: 'light',
-    primary: '#1D9BF0',
+    primary: '#1d1d7a',
     quaternary: '#EFF3F4',
     quaternaryLight: '#F7F9F9',
     secondary: '#ffffff',
@@ -15,7 +15,7 @@ export const theLightTheme = {
 export const theDarkTheme = {
     type: 'dark',
     primary: '#1D9BF0',
-    secondary: '#0F0C41',
+    secondary: '#1d1d7a',
     quaternary: '#0C0B33',
     quaternaryLight: '#8b98a5',
     tertiary: '#EFF3F4',

@@ -96,9 +96,9 @@ function LandingUI({ theme, drawerOpen, classes }) {
                         <h1>{headerData.name}</h1>
                         <Typed
                             strings={[
-                                'Backend Developer',
-                                'Frontend Developer',
-                                'Fullstack Developer']}
+                                'I',
+                                'Need',
+                                'Your App']}
                             typeSpeed={40}
                             backSpeed={50}
                             className="typed-header"
@@ -108,18 +108,6 @@ function LandingUI({ theme, drawerOpen, classes }) {
                         <p>{headerData.desciption}</p>
 
                         <div className='lcr-buttonContainer'>
-                            {headerData.resumePdf && (
-                                <a
-                                    href={headerData.resumePdf}
-                                    download='resume'
-                                    target='_blank'
-                                    rel='noreferrer'
-                                >
-                                    <button className={classes.resumeBtn}>
-                                        Download CV
-                                    </button>
-                                </a>
-                            )}
                             <NavLink
                                 to='/#contacts'
                                 smooth={true}
@@ -127,7 +115,7 @@ function LandingUI({ theme, drawerOpen, classes }) {
                                 duration={2000}
                             >
                                 <button className={classes.contactBtn}>
-                                    Contact
+                                    Saber más..
                                 </button>
                             </NavLink>
                         </div>
